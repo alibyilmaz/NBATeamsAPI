@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\delal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\delal\\.nuget\\packages"
+    ]
+  }
+}

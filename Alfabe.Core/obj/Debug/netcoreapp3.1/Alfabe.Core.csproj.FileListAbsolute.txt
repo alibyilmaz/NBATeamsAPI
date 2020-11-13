@@ -1,0 +1,8 @@
+C:\Users\delal\source\repos\dotnetcore-docker-tdd-demo\Alfabe.Core\bin\Debug\netcoreapp3.1\Alfabe.Core.deps.json
+C:\Users\delal\source\repos\dotnetcore-docker-tdd-demo\Alfabe.Core\bin\Debug\netcoreapp3.1\Alfabe.Core.dll
+C:\Users\delal\source\repos\dotnetcore-docker-tdd-demo\Alfabe.Core\bin\Debug\netcoreapp3.1\Alfabe.Core.pdb
+C:\Users\delal\source\repos\dotnetcore-docker-tdd-demo\Alfabe.Core\obj\Debug\netcoreapp3.1\Alfabe.Core.AssemblyInfoInputs.cache
+C:\Users\delal\source\repos\dotnetcore-docker-tdd-demo\Alfabe.Core\obj\Debug\netcoreapp3.1\Alfabe.Core.AssemblyInfo.cs
+C:\Users\delal\source\repos\dotnetcore-docker-tdd-demo\Alfabe.Core\obj\Debug\netcoreapp3.1\Alfabe.Core.dll
+C:\Users\delal\source\repos\dotnetcore-docker-tdd-demo\Alfabe.Core\obj\Debug\netcoreapp3.1\Alfabe.Core.pdb
+C:\Users\delal\source\repos\dotnetcore-docker-tdd-demo\Alfabe.Core\obj\Debug\netcoreapp3.1\Alfabe.Core.csproj.CoreCompileInputs.cache
